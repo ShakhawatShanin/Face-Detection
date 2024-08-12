@@ -1,5 +1,3 @@
-# rakib72642/Face_Detection_Logic
-
 # HuggingFace: https://huggingface.co/rakib72642/Face_Detection_Logic
 
 # Setup Global API
