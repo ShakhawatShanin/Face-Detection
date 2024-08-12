@@ -1,0 +1,9 @@
+pillow
+requests
+numpy
+face_recognition
+fastapi
+pydantic
+uvicorn
+pytz
+hypercorn
